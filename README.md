@@ -1,2 +1,3 @@
 # My-App
-The App is clone Music App, where user can register and sign-in
+This App is a Clone Music App, where User can register and Login.
+It is a basic app need much changes.
